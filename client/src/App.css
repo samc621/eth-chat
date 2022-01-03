@@ -1,0 +1,10 @@
+.Home,
+.Room {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.Messages {
+  margin: 0 auto !important;
+  padding-top: 20px;
+}

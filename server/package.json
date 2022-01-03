@@ -1,0 +1,16 @@
+{
+  "name": "eth-chat",
+  "version": "1.0.0",
+  "description": "Ethereum-based encrypted chat rooms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm ./index.js"
+  },
+  "author": "Samuel Corso",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.0"
+  }
+}
